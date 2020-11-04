@@ -1,0 +1,318 @@
+[hilaolu@hilaolu-Laptop exp7]$ ./bin/exp1.exe
+student NO. 200110924
+subject No.5 - Program No.1
+1.Input record
+2.Calculate total and average score of course
+3.Sort in descending order by score
+4.Sort in ascending order by score
+5.Sort in ascending order by number
+6.Sort in dictionary order by name
+7.Search by number
+8.Search by name
+9.Statistic analysis!
+10.List Record
+11.Exit
+1
+Please input the number of students:
+10
+Please input the number of subjects:
+4
+Please input student id:7
+Please input student name:stu7
+Please input student score:12 3 4 2
+Please input student id:2
+Please input student name:stuuuuuuuuuuuuuuuuuuuuu
+Please input student score:Invaid input!
+-1
+10000000
+1 2 3 4
+Please input student id:5
+Please input student name:stu5
+Please input student score:10 0 19 3
+Please input student id:6
+Please input student name:stu6
+Please input student score:10 23 4 2
+Please input student id:9
+Please input student name:stu9
+Please input student score:1 3 45 6
+Please input student id:3
+Please input student name:stu3
+Please input student score:1 2 45 45
+Please input student id:8
+Please input student name:stu8
+Please input student score:99 88 33 5
+Please input student id:10 
+Please input student name:stu10
+Please input student score:88 70 68 2
+Please input student id:4    
+Please input student name:stu4
+Please input student score:9 99 99 99
+Please input student id:1
+Please input student name:stu1 
+Please input student score:100 100 100 100
+1.Input record
+2.Calculate total and average score of course
+3.Sort in descending order by score
+4.Sort in ascending order by score
+5.Sort in ascending order by number
+6.Sort in dictionary order by name
+7.Search by number
+8.Search by name
+9.Statistic analysis!
+10.List Record
+11.Exit
+8
+stu
+Not Found
+1.Input record
+2.Calculate total and average score of course
+3.Sort in descending order by score
+4.Sort in ascending order by score
+5.Sort in ascending order by number
+6.Sort in dictionary order by name
+7.Search by number
+8.Search by name
+9.Statistic analysis!
+10.List Record
+11.Exit
+stu1
+Invaid input!
+8
+stu1
+Not Found
+1.Input record
+2.Calculate total and average score of course
+3.Sort in descending order by score
+4.Sort in ascending order by score
+5.Sort in ascending order by number
+6.Sort in dictionary order by name
+7.Search by number
+8.Search by name
+9.Statistic analysis!
+10.List Record
+11.Exit
+8
+stu7
+stu7	9	12	3	4	2	
+1.Input record
+2.Calculate total and average score of course
+3.Sort in descending order by score
+4.Sort in ascending order by score
+5.Sort in ascending order by number
+6.Sort in dictionary order by name
+7.Search by number
+8.Search by name
+9.Statistic analysis!
+10.List Record
+11.Exit
+8
+stu1
+Not Found
+1.Input record
+2.Calculate total and average score of course
+3.Sort in descending order by score
+4.Sort in ascending order by score
+5.Sort in ascending order by number
+6.Sort in dictionary order by name
+7.Search by number
+8.Search by name
+9.Statistic analysis!
+10.List Record
+11.Exit
+8
+stu1 
+stu1 	1	100	100	100	100	
+1.Input record
+2.Calculate total and average score of course
+3.Sort in descending order by score
+4.Sort in ascending order by score
+5.Sort in ascending order by number
+6.Sort in dictionary order by name
+7.Search by number
+8.Search by name
+9.Statistic analysis!
+10.List Record
+11.Exit
+7
+1
+1	100	100	100	100	
+1.Input record
+2.Calculate total and average score of course
+3.Sort in descending order by score
+4.Sort in ascending order by score
+5.Sort in ascending order by number
+6.Sort in dictionary order by name
+7.Search by number
+8.Search by name
+9.Statistic analysis!
+10.List Record
+11.Exit
+2
+331	390	420	268	
+33.100000	39.000000	42.000000	26.800000	
+1.Input record
+2.Calculate total and average score of course
+3.Sort in descending order by score
+4.Sort in ascending order by score
+5.Sort in ascending order by number
+6.Sort in dictionary order by name
+7.Search by number
+8.Search by name
+9.Statistic analysis!
+10.List Record
+11.Exit
+3
+Student ID	Name	Score
+1	stu1 	100	100	100	100	
+4	stu4	9	99	99	99	
+10	stu10	88	70	68	2	
+8	stu8	99	88	33	5	
+3	stu3	1	2	45	45	
+9	stu9	1	3	45	6	
+6	stu6	10	23	4	2	
+5	stu5	10	0	19	3	
+7	stu7	12	3	4	2	
+2	stuuuuuuuuuuuuuuuu	1	2	3	4	
+
+1.Input record
+2.Calculate total and average score of course
+3.Sort in descending order by score
+4.Sort in ascending order by score
+5.Sort in ascending order by number
+6.Sort in dictionary order by name
+7.Search by number
+8.Search by name
+9.Statistic analysis!
+10.List Record
+11.Exit
+4
+Student ID	Name	Score
+2	stuuuuuuuuuuuuuuuu	1	2	3	4	
+7	stu7	12	3	4	2	
+5	stu5	10	0	19	3	
+6	stu6	10	23	4	2	
+9	stu9	1	3	45	6	
+3	stu3	1	2	45	45	
+8	stu8	99	88	33	5	
+10	stu10	88	70	68	2	
+4	stu4	9	99	99	99	
+1	stu1 	100	100	100	100	
+
+1.Input record
+2.Calculate total and average score of course
+3.Sort in descending order by score
+4.Sort in ascending order by score
+5.Sort in ascending order by number
+6.Sort in dictionary order by name
+7.Search by number
+8.Search by name
+9.Statistic analysis!
+10.List Record
+11.Exit
+5
+Student ID	Name	Score
+1	stu1 	100	100	100	100	
+2	stuuuuuuuuuuuuuuuu	1	2	3	4	
+3	stu3	1	2	45	45	
+4	stu4	9	99	99	99	
+5	stu5	10	0	19	3	
+6	stu6	10	23	4	2	
+7	stu7	12	3	4	2	
+8	stu8	99	88	33	5	
+9	stu9	1	3	45	6	
+10	stu10	88	70	68	2	
+
+1.Input record
+2.Calculate total and average score of course
+3.Sort in descending order by score
+4.Sort in ascending order by score
+5.Sort in ascending order by number
+6.Sort in dictionary order by name
+7.Search by number
+8.Search by name
+9.Statistic analysis!
+10.List Record
+11.Exit
+6
+Student ID	Name	Score
+1	stu1 	100	100	100	100	
+10	stu10	88	70	68	2	
+3	stu3	1	2	45	45	
+4	stu4	9	99	99	99	
+5	stu5	10	0	19	3	
+6	stu6	10	23	4	2	
+7	stu7	12	3	4	2	
+8	stu8	99	88	33	5	
+9	stu9	1	3	45	6	
+2	stuuuuuuuuuuuuuuuu	1	2	3	4	
+
+1.Input record
+2.Calculate total and average score of course
+3.Sort in descending order by score
+4.Sort in ascending order by score
+5.Sort in ascending order by number
+6.Sort in dictionary order by name
+7.Search by number
+8.Search by name
+9.Statistic analysis!
+10.List Record
+11.Exit
+9
+youxiu	2	20.0%
+lianghao	1	10.0%
+zhongdeng	0	0.0%
+jige	0	0.0%
+bujige	7	70.0%
+youxiu	2	20.0%
+lianghao	1	10.0%
+zhongdeng	1	10.0%
+jige	0	0.0%
+bujige	6	60.0%
+youxiu	2	20.0%
+lianghao	0	0.0%
+zhongdeng	0	0.0%
+jige	1	10.0%
+bujige	7	70.0%
+youxiu	2	20.0%
+lianghao	0	0.0%
+zhongdeng	0	0.0%
+jige	0	0.0%
+bujige	8	80.0%
+1.Input record
+2.Calculate total and average score of course
+3.Sort in descending order by score
+4.Sort in ascending order by score
+5.Sort in ascending order by number
+6.Sort in dictionary order by name
+7.Search by number
+8.Search by name
+9.Statistic analysis!
+10.List Record
+11.Exit
+10
+Student ID	Name	Score
+7	stu7	12	3	4	2	21	5.250000	
+2	stuuuuuuuuuuuuuuuu	1	2	3	4	10	2.500000
+5	stu5	10	0	19	3	32	8.000000	
+6	stu6	10	23	4	2	39	9.750000	
+9	stu9	1	3	45	6	55	13.750000	
+3	stu3	1	2	45	45	93	23.250000	
+8	stu8	99	88	33	5	225	56.250000	
+10	stu10	88	70	68	2	228	57.000000	
+4	stu4	9	99	99	99	306	76.500000	
+1	stu1 	100	100	100	100	400	100.000000	
+1.Input record
+2.Calculate total and average score of course
+3.Sort in descending order by score
+4.Sort in ascending order by score
+5.Sort in ascending order by number
+6.Sort in dictionary order by name
+7.Search by number
+8.Search by name
+9.Statistic analysis!
+10.List Record
+11.Exit
+11
+[hilaolu@hilaolu-Laptop exp7]$ 
+
+
